@@ -8,8 +8,8 @@ I'm passionate about **[your profession or interest]** and love building cool th
 ## 🚀 About Me
 
 
-• 🌱 I’m currently working on: Building foundational skills in Linux, front-end development, SQL, and UX design to become a well-rounded full-stack developer.
-• 📚 I’m learning: Linux system administration, HTML + CSS + JavaScript, React, SQL (PostgreSQL & MySQL), UX/UI design principles, Git/GitHub workflows, and a handful of IT automation tools.
+• 🌱 I’m currently working on: Building foundational skills in Linux, front-end development, SQL, and UX design to become a well-rounded full-stack developer.\n
+• 📚 I’m learning: Linux system administration, HTML + CSS + JavaScript, React, SQL (PostgreSQL & MySQL), UX/UI design principles, Git/GitHub workflows, and a handful of IT automation tools.\n
 • 🤝 I’m looking to collaborate on: Beginner-friendly open-source projects that involve front-end frameworks, REST/GraphQL APIs, or database schema design.
 • 🙋‍♂️ I’m looking for help with: Structuring scalable React codebases and writing efficient SQL queries.
 • 💬 Ask me about: Setting up a productive Linux dev environment, front-end fundamentals, or learning paths toward becoming a full-stack developer.
