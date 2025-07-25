@@ -20,8 +20,12 @@ I'm passionate about full-stack development and love building cool things with L
 
 ## 🛠️ Tech Stack
 
-![Your favorite language badge](https://img.shields.io/badge/-Language1-xxxxxx?style=flat-square&logo=Language1&logoColor=white)
-![Another language badge](https://img.shields.io/badge/-Language2-xxxxxx?style=flat-square&logo=Language2&logoColor=white)
+![Your favorite language badge](https://img.shields.io/badge/-Language1-xxxxxx?style=flat-square&logo=HTML&logoColor=#002E3D)
+![Another language badge](https://img.shields.io/badge/-Language2-xxxxxx?style=flat-square&logo=CSS&logoColor=#EAE3C8)
+![Your favorite language badge](https://img.shields.io/badge/-Language1-xxxxxx?style=flat-square&logo=JavaScript&logoColor=#E4572E)
+![Another language badge](https://img.shields.io/badge/-Language2-xxxxxx?style=flat-square&logo=UXDesign&logoColor=#F49D37)
+![Your favorite language badge](https://img.shields.io/badge/-Language1-xxxxxx?style=flat-square&logo=SQL&logoColor=#F0810F)
+![Another language badge](https://img.shields.io/badge/-Language2-xxxxxx?style=flat-square&logo=Linux&logoColor=white)
 <!-- Add more badges as needed -->
 
 ---
