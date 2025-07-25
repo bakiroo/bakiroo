@@ -1,7 +1,7 @@
 # Hi there, I'm bakiroo! 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about **[your profession or interest]** and love building cool things with **[your favorite technologies or languages]**.
+I'm passionate about full-stack development and love building cool things with Linux, front-end technologies, SQL, and UX design.
 
 ---
 
