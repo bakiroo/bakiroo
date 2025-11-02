@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-A third‑year, self‑directed learner who’s fallen in love with programming from all angles. My journey that started with The [freeCodeCamp][https://freeCodeCamp.org] ![freecodecamp image](https://global.discourse-cdn.com/freecodecamp/original/3X/4/c/4c06248fcb7353707abcde9f10fc43a5fb6748db.svg)  is built on curiosity, open‑source resources, and a relentless drive to become a full‑stack developer.🚀
+A third‑year, self‑directed learner who’s fallen in love with programming from all angles. My journey that started with The <em>[freeCodeCamp] </em> (https://freeCodeCamp.org) ![freecodecamp image](https://global.discourse-cdn.com/freecodecamp/original/3X/4/c/4c06248fcb7353707abcde9f10fc43a5fb6748db.svg)  is built on curiosity, open‑source resources, and a relentless drive to become a full‑stack developer.🚀
 
 
 
