@@ -1,22 +1,11 @@
 # Hi there, I'm bakiroo! 👋
-
 Welcome to my GitHub profile!  
-I'm passionate about full-stack development and love building cool things with Linux, front-end technologies, SQL, and UX design.
-
----
 
 ## 🚀 About Me
 
+A third‑year, self‑directed learner who’s fallen in love with programming from all angles. My journey that started with The freeCodeCamp.org is built on curiosity, open‑source resources, and a relentless drive to become a full‑stack developer.🚀
 
-- 🌱 I’m currently working on: Building foundational skills in Linux, front-end development, SQL, and UX design to become a well-rounded full-stack developer.
-- 📚 I’m learning: Linux system administration, HTML + CSS + JavaScript, React, SQL (PostgreSQL & MySQL), UX/UI design principles, Git/GitHub workflows, and a handful of IT automation tools.
-- 🤝 I’m looking to collaborate on: Beginner-friendly open-source projects that involve front-end frameworks, REST/GraphQL APIs, or database schema design.
-- 🙋‍♂️ I’m looking for help with: Structuring scalable React codebases and writing efficient SQL queries.
-- 💬 Ask me about: ?
-- 📫 How to reach me: ....
-- ⚡ Fun fact: I’m passionate about continuous learning and enjoy exploring new technologies to improve my full-stack development skills.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +28,6 @@ I'm passionate about full-stack development and love building cool things with L
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakiroo&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Personal Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
-<!-- Add or remove social links as needed -->
 
 ---
 
