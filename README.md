@@ -12,7 +12,7 @@
 </a>
 
 
-# Hi there, I'm bakiroo! 👋
+# Hi there, bakiroo here! 👋
 Welcome to my GitHub profile!  
 
 ## 🚀 About Me
