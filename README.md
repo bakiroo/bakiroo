@@ -6,6 +6,9 @@
 </a>
 
 
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+
+
 # Hi there, I'm bakiroo! 👋
 Welcome to my GitHub profile!  
 
