@@ -5,8 +5,12 @@
   />
 </a>
 
-
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+<a href="https://freeCodeCamp.org">
+  <img
+    src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"
+    alt="freeCodeCamp"
+  />
+</a>
 
 
 # Hi there, I'm bakiroo! 👋
