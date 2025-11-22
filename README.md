@@ -26,15 +26,15 @@ A third‑year, self‑directed learner who’s fallen in love with programming 
 ![Your favorite language badge](https://img.shields.io/badge/-HTML5-5EF38C?style=flat-square&logo=HTML5&logoColor=#002E3D)
 ![Another language badge](https://img.shields.io/badge/-Linux-1ABC9C?style=flat-square&logo=Linux&logoColor=white)
 ![Another language badge](https://img.shields.io/badge/-Python-0E6655?style=flat-square&logo=Python&logoColor=white)
-![Another language badge](https://img.shields.io/badge/-Linux-ABEBC6?style=flat-square&logo=Linux&logoColor=white)
-![Another language badge](https://img.shields.io/badge/-Python-16A085?style=flat-square&logo=Python&logoColor=white)
-![Your favorite language badge](https://img.shields.io/badge/-HTML5-73C6B6?style=flat-square&logo=HTML5&logoColor=#002E3D)
+![Another language badge](https://img.shields.io/badge/-ABEBC6?style=flat-square)
+![Another language badge](https://img.shields.io/badge/-16A085?style=flat-square)
+![Your favorite language badge](https://img.shields.io/badge/-73C6B6?style=flat-square)
 ![Another language badge](https://img.shields.io/badge/-CSS3-2ECC71?style=flat-square&logo=CSS3&logoColor=#EAE3C8)
 ![Your favorite language badge](https://img.shields.io/badge/-JavaScript-0E6251?style=flat-square&logo=JavaScript&logoColor=#E4572E)
 ![Another language badge](https://img.shields.io/badge/-UX_Design-48C9B0?style=flat-square&logo=UX_Design&logoColor=#F49D37)
 ![Your favorite language badge](https://img.shields.io/badge/-SQL-0B5345?style=flat-square&logo=SQL&logoColor=#F0810F)
-![Another language badge](https://img.shields.io/badge/-Linux-1ABC9C?style=flat-square&logo=Linux&logoColor=white)
-![Another language badge](https://img.shields.io/badge/-Python-117A65?style=flat-square&logo=Python&logoColor=white)
+![Another language badge](https://img.shields.io/badge/-1ABC9C?style=flat-square)
+![Another language badge](https://img.shields.io/badge/-117A65?style=flat-square)
 
 
 <!-- Add more badges as needed -->
