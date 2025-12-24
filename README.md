@@ -29,7 +29,7 @@ A third‑year, self‑directed learner who’s fallen in love with programming 
 ![Another language badge](https://img.shields.io/badge/-ff4500?style=flat-square)
 ![Another language badge](https://img.shields.io/badge/-ff713d?style=flat-square)
 ![Your favorite language badge](https://img.shields.io/badge/-ffed62?style=flat-square)
-![Your favorite language badge](https://img.shields.io/badge/-SQL-0B5345?style=flat-square&logo=SQL&logoColor=#4db1fc)
+![Your favorite language badge](https://img.shields.io/badge/-Sql-0B5345?style=flat-square&logo=Sql&logoColor=#4db1fc)
 ![Your favorite language badge](https://img.shields.io/badge/-Node.Js-2ECC71?style=flat-square&logo=Node.Js&logoColor=#3ba20d)
 ![Another language badge](https://img.shields.io/badge/-ABEBC6?style=flat-square)
 ![Another language badge](https://img.shields.io/badge/-16A085?style=flat-square)
