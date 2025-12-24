@@ -40,6 +40,7 @@ A third‑year, self‑directed learner who’s fallen in love with programming 
 <!-- Add more badges as needed -->
 
 ---
+<!--
 
 ## 📈 GitHub Stats
 
