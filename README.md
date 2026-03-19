@@ -21,7 +21,7 @@ A third‑year, self‑directed learner who’s fallen in love with programming 
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech explored, tested, and still learning about where each one is all an ocean
 
 ![Your favorite language badge](https://img.shields.io/badge/-HTML5-5EF38C?style=flat-square&logo=HTML5&logoColor=#002E3D)
 ![Another language badge](https://img.shields.io/badge/-CSS-2986cc?style=flat-square&logo=CSS&logoColor=#EAE3C8)
